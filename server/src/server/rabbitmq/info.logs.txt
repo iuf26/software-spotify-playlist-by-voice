@@ -1,0 +1,2 @@
+[INFO] Dec 30, 2022, 2:22 PM Routing key :info, Message: Preparing file to read
+[INFO] Dec 30, 2022, 2:22 PM Routing key :info, Message: Preparing file to read

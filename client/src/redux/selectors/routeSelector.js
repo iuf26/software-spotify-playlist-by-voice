@@ -1,0 +1,1 @@
+export const selectRoute = (state) => state.route;

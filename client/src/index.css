@@ -1,0 +1,15 @@
+body {
+  /* 10px */
+  font-size: 62.5%;
+  margin: 0;
+}
+
+body {
+  /* 16px ,12px = 12/16 = 0.75rem*/
+  font-size: 1.6rem;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
